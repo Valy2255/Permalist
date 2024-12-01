@@ -1,6 +1,6 @@
 # **Permalist Project**
 
-A simple task management application built using **Node.js**, **Express.js**, and **PostgreSQL**. The project allows users to:
+Permalist is a simple task management application built with **Node.js**, **Express.js** and **PostgreSQL** that allows users to:
 - Add new tasks to the list.
 - Edit existing tasks.
 - Delete tasks from the list.
